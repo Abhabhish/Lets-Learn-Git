@@ -1,2 +1,2 @@
-def get_sum(a,b)
-    return a+b
+def get_sum(a,b):
+    return f"The sum is: {a+b}"
